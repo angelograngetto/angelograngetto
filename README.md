@@ -13,15 +13,12 @@
 </br>
 
 <p align="center">
-  <strong>Languages</strong>
+  <strong>Contact me</strong>
   </br>
   </br>
-   <img src="https://image.flaticon.com/icons/png/512/1260/1260775.png" width="30px">
-   <img src="https://storage.semalt.com/uploads/articles/6e222187f3ca196b689b9d3984685dc91.png" width="30px"> 
-   <img src="https://image.flaticon.com/icons/png/512/919/919852.png" width="30px"> 
-   <img src="https://icon-library.com/images/django-icon/django-icon-0.jpg" width="35px"> 
-   <img src="https://blog.artegrafico.net/wp-content/uploads/2019/07/sass-512.png" width="38px"> 
-   
+  <a href="https://linkedin.com/in/angelo-grangetto">LinkedIn</a>
+  <a href="https://angelograngetto.com.ar">Portfolio</a>
+  <a href="mailto:angelograngetto@gmail.com">Email</a>
 </p>
 
 </br>
@@ -29,8 +26,3 @@
 
 
 --------
-<div align="center">
-
-![AngeloGrangetto GitHub Stats](https://github-readme-stats.vercel.app/api?username=angelograngetto&show_icons=true&hide_border=true)
-
-</div>
