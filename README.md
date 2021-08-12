@@ -4,7 +4,7 @@
   <h1 align="center">I'm Angelo 👨🏻‍💻</h1>
 </p>
 <p align="center">
-  I'm <strong>fullstack developer</strong>
+  I'm <strong>frontend developer</strong>
   </br>
   You can see my works and projects <a href="https://angelograngetto.com.ar">here</a> 
 </p>
