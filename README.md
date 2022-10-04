@@ -6,7 +6,7 @@
 <p align="center">
   I'm <strong>frontend developer</strong>
   </br>
-  You can see my works and projects <a href="https://angelograngetto.com.ar">here</a> 
+  You can see my works and projects <a href="https://angelograngetto.com">here</a> 
 </p>
 
 </br>
@@ -17,7 +17,7 @@
   </br>
   </br>
   <a href="https://linkedin.com/in/angelo-grangetto">LinkedIn</a>
-  <a href="https://angelograngetto.com.ar">Portfolio</a>
+  <a href="https://angelograngetto.com">Portfolio</a>
   <a href="mailto:angelograngetto@gmail.com">Email</a>
 </p>
 
